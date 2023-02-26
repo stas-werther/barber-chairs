@@ -77,7 +77,7 @@
   left: 20px;
   width: 20px;
   height: 20px;
-  background: url(/img/search.svg);
+  background: url(../img/search.svg);
 }
 .header__search input {
   width: 250px;
